@@ -62,7 +62,7 @@ fa-icon: lock
       
     - Example: `$ chmod 754 file` set permission to file:
     
-                user         |      group     |others
-      -----------------------|----------------|------
-                7            |       5        |  4
+      user                   |      group     |others
+      -----------------------|----------------|--------
+      7                      |       5        |  4
       read + write + execute | read + execute | read
