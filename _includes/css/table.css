@@ -1,7 +1,7 @@
-table, td, th {
+#permission table, #permission td, #permission th {
   border: 1px solid black;
 }
 
-td, th {
+#permission td, #permission th {
   padding: 5px;
 }
