@@ -20,7 +20,7 @@ fa-icon: lock
     - First letter is the file type:
 
       d          | b          | c            | p    | s      | \-
-      -----------|------------|--------------|------|--------|-------------
+      :---------:|:----------:|:------------:|:----:|:------:|:-----------:
       directory  | block file | special file | pipe | socket | regular file
 
     - Second, third and fourth letters are the **user** permissions
