@@ -1,3 +1,7 @@
+#permission table {
+  border-collapse: separate;
+}
+
 #permissions table, #permissions td, #permissions th {
   border: 1px solid black;
 }
